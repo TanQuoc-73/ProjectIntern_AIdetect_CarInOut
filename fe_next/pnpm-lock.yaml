@@ -14,6 +14,9 @@ importers:
       dotenv:
         specifier: ^17.2.3
         version: 17.2.3
+      dropdown:
+        specifier: ^0.2.0
+        version: 0.2.0
       next:
         specifier: 15.5.5
         version: 15.5.5(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -808,6 +811,9 @@ packages:
   dotenv@17.2.3:
     resolution: {integrity: sha512-JVUnt+DUIzu87TABbhPmNfVdBDt18BLOWjMUFJMSi/Qqg7NTYtabbvSNJGOJ7afbRuv9D/lngizHtP7QyLQ+9w==}
     engines: {node: '>=12'}
+
+  dropdown@0.2.0:
+    resolution: {integrity: sha512-rucNMctxq/MD8hX37pyHhhqYDZ49WRIQOvywlZA2RTicRR/KNyizAQTW9yiJIqUt1mthiCUO/ULXI+eAXvUfjg==}
 
   dunder-proto@1.0.1:
     resolution: {integrity: sha512-KIN/nDJBQRcXw0MLVhZE9iQHmG68qAVIBg9CqmUYjmQIhgij9U5MFvrqkUL5FbtyyzZuOeOt0zdeRe4UY7ct+A==}
@@ -2507,6 +2513,8 @@ snapshots:
       esutils: 2.0.3
 
   dotenv@17.2.3: {}
+
+  dropdown@0.2.0: {}
 
   dunder-proto@1.0.1:
     dependencies:

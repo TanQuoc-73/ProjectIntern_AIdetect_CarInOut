@@ -28,7 +28,7 @@ export default function Sidebar() {
       {/* Logo */}
       <div className="h-20 flex items-center justify-center border-b border-gray-700">
         <h1 className="text-2xl font-bold">
-          <span className="bg-blue-600 px-2 py-1 rounded">AI</span> Dealer
+          <span className="bg-blue-600 px-2 py-1 rounded">AI</span> Scan
         </h1>
       </div>
 

@@ -5,7 +5,6 @@ import CameraFeed from '@/components/dashboard/CameraFeed';
 import DetectionInfo from '@/components/dashboard/DetectionInfo';
 import RecentDetections from '@/components/dashboard/RecentDetections';
 
-// Kiểu dữ liệu cho một lần nhận diện, được định nghĩa trực tiếp ở đây cho đơn giản
 export type Detection = {
   plate: string;
   timestamp: string;
